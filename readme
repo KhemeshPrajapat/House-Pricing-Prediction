@@ -1,0 +1,14 @@
+House Price Prediction Model
+
+This project aims to predict house prices using machine learning techniques. By analyzing features such as location, size, number of rooms, and other property attributes, the model provides accurate price estimates that can assist buyers, sellers, and real estate companies in making informed decisions.To make this project more suitable the cleaning of the data has been done very carefully as none of the values oor prices are removed for the better training of the model, instead the missing values are filled with the most suitable mean, median and mode method.Thus making the model to train on more data and better understanding .
+
+Data Sets 
+The dataset contains housing information including numerical and categorical features.
+Preprocessing steps included handling missing values, encoding categorical variables, and scaling numerical features.
+Exploratory Data Analysis (EDA) was performed to identify correlations and key factors influencing house prices.
+
+Result 
+I have cross validate the Linear Reggration , Decision Tree and Random Forest Reggrartion models for the better training of the model , after the cross validatiobn Random Forest has been chossen by me for the Model traning. Got the 87% off the acccuracy.
+
+Conclusion
+This project demonstrates skills in data preprocessing, visualization, statistical modeling, and machine learning. It provides practical insights into real estate pricing and showcases the ability to build predictive models for real-world applications.
